@@ -6,7 +6,7 @@ import WWAIInteractiveGlobeSection from './components/WWAIInteractiveGlobeSectio
 
 const equipe: Array<{ initial?: string; image?: string; name: string; creds: string }> = [
   { image: '/vinicius-lopes.png', name: 'Vinicíus Lopes', creds: 'Especialista em IA e migração de projetos low-code para IA' },
-  { image: '/pedro-saboia-white-bg.png', name: 'Pedro Sabóia', creds: 'Gestão de projetos, pessoas e análise de processos' },
+  { image: '/pedro-saboia.png', name: 'Pedro Sabóia', creds: 'Gestão de projetos, pessoas e análise de processos' },
   { image: '/gabriel-mark.png', name: 'Gabriel Mark', creds: 'Marketing e Growth' },
 ]
 
